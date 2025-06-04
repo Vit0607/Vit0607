@@ -12,7 +12,7 @@
 - Git
 - HTML | CSS
 
-## I am fond of photography and snowboarding.
+## I am fond of video making.
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
