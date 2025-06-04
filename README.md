@@ -2,7 +2,7 @@
 
 ## Frontend developer React on TypeScript (JavaScript)
 
-## My stack
+## My stack:
 ### React v.17+
 ### TypeScript | JavaScript
 ### Redux-toolkit | RTK-Query
