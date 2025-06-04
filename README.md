@@ -2,15 +2,15 @@
 
 ## Frontend developer React on TypeScript (JavaScript)
 
-## My stack:
-- React v.17+
-- TypeScript | JavaScript
-- Redux-toolkit | RTK-Query
-- Axios | REST API
-- Framer Motion
-- SCSS | Tailwind | MUI
-- Git
-- HTML | CSS
+## My stack
+### React v.17+
+### TypeScript | JavaScript
+### Redux-toolkit | RTK-Query
+### Axios | REST API
+### Framer Motion
+### SCSS | Tailwind | MUI
+### Git
+### HTML | CSS
 
 ## I am fond of video making.
 
