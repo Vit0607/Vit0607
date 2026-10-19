@@ -42,7 +42,7 @@
 - CSS Flexbox, Grid
 - JavaScript, jQuery
 - Blade-шаблоны Laravel
-- Знаком с принципами работы Livewire и Alpine.js
+- Livewire и Alpine.js
 
 ### Инструменты и окружение
 
@@ -57,7 +57,7 @@
 - Docker, Laravel Sail, WSL2
 - Git, GitHub
 - Composer, npm, Vite
-- VS Code
+- VS Code, PHPStorm
 
 ---
 
