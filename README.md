@@ -102,6 +102,13 @@
 
 ---
 
+## 🌍 Языки
+
+- **Русский** — родной
+- **Английский** — Intermediate (B1), читаю техническую документацию на английском
+
+---
+
 ## 📫 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Vit0607)
