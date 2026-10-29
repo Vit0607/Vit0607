@@ -26,7 +26,7 @@
 ![Redis](https://img.shields.io/badge/Redis-20232A?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![REST API](https://img.shields.io/badge/REST_API-20232A?style=for-the-badge)
 
-- Laravel 12, Eloquent ORM, Query Builder
+- Laravel 12+, Eloquent ORM, Query Builder
 - CRUD, REST API, API Resources
 - Authentication, Authorization, Laravel Sanctum, Policies
 - Form Requests, Validation, Middleware
@@ -95,7 +95,7 @@
 
 - Backend-разработка на PHP / Laravel
 - Создание REST API для веб-приложений
-- Fullstack-разработка с использованием Laravel, Blade, Livewire и Alpine.js
+- Fullstack-разработка с использованием Laravel, Blade, JavaScript, Livewire и Alpine.js
 - Работа с базами данных, улучшение архитектуры и качества кода
 
 **Открыт к предложениям о работе PHP / Laravel-разработчиком.**
